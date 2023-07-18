@@ -1,0 +1,22 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "nix"
+
+[params]
+  Name = "just karan"
+  HeaderUsername = "karan"
+  HeaderHostname = "just karan"
+  about = "my name is karan i am 25 years old, i am working as an full stack web developer for last 2 years now"
+  ProfilePicture = "images/img12.jpg"
+Email = "your_email"
+FacebookID = "your_facebook"
+InstagramID = "your_instagram"
+
+
+  [menu]
+  [[menu.header]]
+    name = "posts"
+    weight = 0
+    url = "/posts"
+
