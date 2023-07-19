@@ -14,7 +14,7 @@ Email = "your_email"
 FacebookID = "your_facebook"
 InstagramID = "your_instagram"
 
-.
+
   [menu]
   [[menu.header]]
     name = "posts"
