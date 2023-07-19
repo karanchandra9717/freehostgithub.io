@@ -9,7 +9,7 @@ theme = "nix"
   HeaderHostname = "just karan"
   about = "My name is karan I am 25 years old, and I have been working as a full stack web developer for the last 2 years i hope this projects will be my best projects till now it will be great for future"
 
-ture = "images/img12.jpg"
+profilepicture = "images/img12.jpg"
 Email = "your_email"
 FacebookID = "your_facebook"
 InstagramID = "your_instagram"
