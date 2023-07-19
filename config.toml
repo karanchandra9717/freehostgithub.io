@@ -7,14 +7,14 @@ theme = "nix"
   Name = "just karan"
   HeaderUsername = "karan"
   HeaderHostname = "just karan"
-  about = "My name is karan I am 25 years old, and I have been working as a full stack web developer for the last 2 years i hope this projects will be my best projects till now it will be great for future to have a some kind of growth"
+  about = "My name is karan I am 25 years old, and I have been working as a full stack web developer for the last 2 years i hope this projects will be my best projects till now it will be great for future."
 
 profilepicture = "images/img12.jpg"
 Email = "your_email"
 FacebookID = "your_facebook"
 InstagramID = "your_instagram"
 
-
+.
   [menu]
   [[menu.header]]
     name = "posts"
